@@ -4,7 +4,7 @@ title:  "Initial post"
 date:   2016-07-03 13:21:47 +0200
 categories: jekyll update
 ---
-Welcome to whatever this is. This is just the first post to have some content on the site. The information below has not been changed and is the original content of the Jekyll theme.
+Welcome to whatever this is. This is just the first post to have some content on the site. The information below has not been changed and it is the original content of the Jekyll theme.
 
 Code snippets:
 
