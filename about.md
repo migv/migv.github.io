@@ -3,6 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
+I still need to decide exactly what this page will be about, but basically, it is my personal page. More to come in the future. The info below is just the standard Jekyll theme information.
+
+
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
