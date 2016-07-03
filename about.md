@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-I still need to decide exactly what this page will be about, but basically, it is my personal page. More to come in the future. The info below is just the standard Jekyll theme information.
+I still need to decide exactly what this page will be about, but basically, this is my personal page. More to come in the future. The info below is just the standard Jekyll theme information.
 
 
 
